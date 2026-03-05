@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Romel Ante</h1>
+[<h1>Hi 👋, I'm Romel Ante</h1>
 <p>A passionate frontend developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
@@ -81,6 +81,6 @@
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=RomelAnte" alt="RomelAnte" />
-  </a>
+  </a>](https://gitlab.com/romel.ante8250)
 </p>
 
