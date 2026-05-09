@@ -1,8 +1,15 @@
 # Hi 👋 I'm Romel Ante
 
-### Backend & Fullstack Developer · Ecuador 🇪🇨
+## 🌐 Portfolio 👉 **[romelante-dev.onrender.com](https://romelante-dev.onrender.com)**  
+
+### Backend & Fullstack Developer · Ecuador 🇪🇨 . 
 
 Backend developer focused on building real systems that solve real problems — from SaaS tools to social impact platforms. I build in public and document everything.
+
+## 🚀 What I'm building 
+- 🏛️ **Lab Booking System** — Laboratory reservation for universities (ASP.NET · SQL Server)
+- 📊 **Quality Observatory** — Institutional platform in production (PHP · MySQL)
+- 🔧 **Next:** Migrating portfolio to Next.js + NestJS — My personal portfolio — Backend Developer from Ecuador 🇪🇨 | Django · .NET · PHP | romelante-dev.onrender.com
 
 ---
 
